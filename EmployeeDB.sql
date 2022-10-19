@@ -35,6 +35,7 @@ to_date date FK >- Dept_Emp.to_date
 
 Titles
 -
-title varchar pk
+emp_no int pk
+title varchar 
 from_date date FK >- Dept_Emp.from_date
 to_date date
