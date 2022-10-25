@@ -7,12 +7,15 @@ Using SQL I was given the task of determining the number of employees at Pewlett
 ## Results
 - The resulting information acquired from the analysis performed on the data provided from PH are as follows:
     * From the unique_titles.csv created displaying all the employees coming up for eligibility, there are 72,458 employees coming up for retirement within the next 2 to 3 years. 
+    
     ![image](https://user-images.githubusercontent.com/111200771/197666332-54fae24f-d5e4-4c46-a0d0-4c8c9f55f226.png)
     
    * The employees eligible for retirement are spread across 7 different titles with the majority having the title of Senior Engineer or Senior Staff. Meaning that PH will have to hire or promote current employees into senior positions within the company.
+   
     ![image](https://user-images.githubusercontent.com/111200771/197666279-68f24d68-a9da-4d62-aae2-8f19c11ee582.png)
     
     * From the mentorship_eligibility.csv, it is determined that 1549 current employees are eligible to take part in the mentorship program to guide the next generation of PH employees to progress through the ranks and lead the company in the future. 
+    
    ![image](https://user-images.githubusercontent.com/111200771/197666184-dc5d84f2-7665-4ad1-9078-ad111c49470d.png)
 
 ## Summary
