@@ -8,7 +8,7 @@ Using SQL I was given the task of determining the number of employees at Pewlett
 - The resulting information acquired from the analysis performed on the data provided from PH are as follows:
     * From the unique_titles.csv created displaying all the employees coming up for eligibility, there are 72,458 employees coming up for retirement within the next 2 to 3 years. 
     
-    ![image](https://user-images.githubusercontent.com/111200771/197666332-54fae24f-d5e4-4c46-a0d0-4c8c9f55f226.png)
+  ![image](https://user-images.githubusercontent.com/111200771/197666482-8812c7de-976b-432a-a157-df7f53b430c8.png)
     
    * The employees eligible for retirement are spread across 7 different titles with the majority having the title of Senior Engineer or Senior Staff. Meaning that PH will have to hire or promote current employees into senior positions within the company.
    
