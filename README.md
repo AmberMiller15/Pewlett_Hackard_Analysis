@@ -11,7 +11,8 @@ Using SQL I was given the task of determining the number of employees at Pewlett
    * The employees eligible for retirement are spread across 7 different titles with the majority having the title of Senior Engineer or Senior Staff. Meaning that PH will have to hire or promote current employees into senior positions within the company.
     image.png
     * From the mentorship_eligibility.csv, it is determined that 1549 current employees are eligible to take part in the mentorship program to guide the next generation of PH employees to progress through the ranks and lead the company in the future. 
-    image.png
+   ![image](https://user-images.githubusercontent.com/111200771/197666184-dc5d84f2-7665-4ad1-9078-ad111c49470d.png)
+
 ## Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     * The number of roles that will need to be filled as the "silver tsunami" begins is a total of 72,458 spread over 7 different roles varying in rank across the company. 
